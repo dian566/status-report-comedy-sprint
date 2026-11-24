@@ -3,6 +3,8 @@
 
 # The joke is the twist: an agent that did everything, learned new
 # skills, and still has no idea what its human actually does all day.
+# Kept at 111 characters: one line, no setup, the punchline lands on
+# "what you actually do all day" — the human is the mystery, not the agent.
 
 import os
 
